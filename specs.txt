@@ -1,0 +1,8 @@
+	* Start button--> starts the game-->starts counter; displays 1st question set
+	* Click an answer--> sets an Interval to display 'correct' or 'incorrect' and show correct answer and an image.
+	* Next question set is displayed after the invterval
+	* If question timer hits 0, then the Interval displays 'times up' and shows correct answer and image.
+	* End game-->
+			Timer stops (and disappears)
+			Correct, incorrect, unanswered are displayed
+			Start Over Button-->will reset game. NOT RELOAD PAGE.
